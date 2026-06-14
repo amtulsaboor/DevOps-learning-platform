@@ -48,13 +48,16 @@ A self-paced DevOps learning platform with 20 tracks covering Linux, cloud, cont
 ## Screenshots
 
 ### Dashboard
-![Dashboard](public/screenshots/dashboard.png)
+<img width="1710" height="1107" alt="Screenshot 2026-06-14 at 10 50 34 PM" src="https://github.com/user-attachments/assets/150155ab-71e9-4241-a330-534236b3c71d" />
+
 
 ### Track Page
-![Track Page](public/screenshots/track.png)
+
+<img width="1710" height="1107" alt="Screenshot 2026-06-14 at 10 51 40 PM" src="https://github.com/user-attachments/assets/5687c7bf-25eb-479a-93aa-9acde8295eb6" />
 
 ### Lesson Viewer
-![Lesson Viewer](public/screenshots/lesson.png)
+
+<img width="1710" height="1107" alt="Screenshot 2026-06-14 at 10 53 53 PM" src="https://github.com/user-attachments/assets/cc3dd266-a53c-408f-ae4d-e3e8904bced5" />
 
 ---
 
